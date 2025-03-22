@@ -8,7 +8,7 @@ export const headline = 'Student at Tsinghua University.'
 export const introduction =
   "Buenos! My name is Chi Wang. I'm from Shaanxi and a student of Tsinghua, Beijing, China."
 export const email = 'w-c22@mails.tsinghua.edu.cn'
-export const githubUsername = 'derekhut'
+export const githubUsername = 'S-WCCC'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
