@@ -6,22 +6,22 @@ export * from './career'
 export const name = 'Chi Wang'
 export const headline = 'Student at Tsinghua University.'
 export const introduction =
-  "Buenos! My name is Chi Wang. I'm from Shaanxi and a student of Tsinghua, Beijing, China."
+  "Buenos! My name is Chi Wang. I'm from Shaanxi and an undergraduate student of Tsinghua, Beijing, China."
 export const email = 'w-c22@mails.tsinghua.edu.cn'
 export const githubUsername = 'S-WCCC'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "Buenos! My name is Chi Wang. I'm from Shaanxi and a student of Tsinghua University.",
+  'Currently I am exploring Ecological Systems,Synthetic Biology,Smart Fibers and AI.',
+  "I started this blog to share the insights I learn every day.",
 ]
 
 // blog
 export const blogHeadLine = "What I've thinking about."
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "I've written something about synthetic biology, materials, AI and life."
 
 // social links
 export type SocialLinkType = {
@@ -40,7 +40,7 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/455155234?spm_id_from=333.1387.0.0',
   },
 ]
 
