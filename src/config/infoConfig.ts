@@ -68,5 +68,6 @@ export const techIcons = [
   'ios',
   'apple',
   'wechat',
-  'elsevier'
+  'elsevier',
+  'zhihu'
 ]
